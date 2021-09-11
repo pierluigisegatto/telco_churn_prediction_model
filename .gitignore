@@ -3,6 +3,7 @@
 
 __pycache__/
 presentation_fig
+.ipynb_checkpoints
 
 *.tmp
 
