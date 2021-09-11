@@ -1,0 +1,22 @@
+round_epochs,loss,recall_m,val_loss,val_recall_m,activation,batch_size,dropout,epochs,first_neuron,hidden_layers,losses,lr,optimizer,shapes
+100,0.6931335384300233,1.0,0.6931476772695347,1.0,<function relu at 0x147e4add0>,32,0.2,100,32,5,binary_crossentropy,0.001,<class 'tensorflow.python.keras.optimizer_v2.gradient_descent.SGD'>,funnel
+100,0.6941398619078991,0.77057374,0.6940364127573759,0.74870855,<function relu at 0x147e4add0>,16,0.2,100,16,3,binary_crossentropy,0.001,<class 'tensorflow.python.keras.optimizer_v2.gradient_descent.SGD'>,funnel
+100,0.6591867359688559,0.89302397,0.6627658017591578,0.89014643,<function relu at 0x147e4add0>,32,0,100,32,5,binary_crossentropy,0.001,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,funnel
+100,0.6943350414286261,0.6692239,0.6929908686789914,0.5951383,<function relu at 0x147e4add0>,32,0.3,100,16,4,binary_crossentropy,0.001,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,funnel
+100,0.6729297000130872,0.4274972,0.6629188856064986,0.7386824,<function relu at 0x147e4add0>,16,0.2,100,64,5,binary_crossentropy,0.001,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,funnel
+100,0.6850954052128346,0.47145024,0.6800932592239932,0.5070191,<function relu at 0x147e4add0>,16,0.3,100,16,4,binary_crossentropy,0.001,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,funnel
+100,0.6811072907317632,0.9622111,0.6824675350373494,0.9583374,<function relu at 0x147e4add0>,32,0,100,16,4,binary_crossentropy,0.001,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,funnel
+100,0.693352271030709,1.0,0.6930173457532689,1.0,<function relu at 0x147e4add0>,32,0,100,16,3,binary_crossentropy,0.001,<class 'tensorflow.python.keras.optimizer_v2.gradient_descent.SGD'>,funnel
+100,0.6922083600876728,0.60662335,0.6918483178972622,0.3770081,<function relu at 0x147e4add0>,32,0.3,100,32,5,binary_crossentropy,0.001,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,funnel
+100,0.693142063651116,0.9939476,0.6931473217724602,0.9903109,<function relu at 0x147e4add0>,16,0,100,16,3,binary_crossentropy,0.001,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,funnel
+100,0.6661840431008773,0.677197,0.6581193675741481,0.8317392,<function relu at 0x147e4add0>,16,0.2,100,64,3,binary_crossentropy,0.001,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,funnel
+100,0.6905302615896116,0.79693425,0.692540494773699,0.9371859,<function relu at 0x147e4add0>,32,0.2,100,32,4,binary_crossentropy,0.001,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,funnel
+100,0.6897947239714505,0.5297391,0.6839405643191314,0.49979666,<function relu at 0x147e4add0>,16,0.2,100,16,5,binary_crossentropy,0.001,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,funnel
+100,0.6742769724996115,0.5947953,0.6574860579725624,0.6869065,<function relu at 0x147e4add0>,32,0.3,100,64,3,binary_crossentropy,0.001,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,funnel
+100,0.6968148584007554,0.22414628,0.6900335351050187,0.2793518,<function relu at 0x147e4add0>,32,0.3,100,32,3,binary_crossentropy,0.001,<class 'tensorflow.python.keras.optimizer_v2.gradient_descent.SGD'>,funnel
+100,0.6003801239576568,0.71248186,0.5989502416140792,0.7164708,<function relu at 0x147e4add0>,16,0,100,32,4,binary_crossentropy,0.001,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,funnel
+100,0.6918671390491282,0.81244415,0.6931700434661717,0.9892761,<function relu at 0x147e4add0>,32,0.3,100,16,3,binary_crossentropy,0.001,<class 'tensorflow.python.keras.optimizer_v2.adam.Adam'>,funnel
+100,0.6926104129152789,0.3384531,0.6904406317766162,0.4524066,<function relu at 0x147e4add0>,16,0.2,100,64,4,binary_crossentropy,0.001,<class 'tensorflow.python.keras.optimizer_v2.gradient_descent.SGD'>,funnel
+100,0.6967319670608292,0.5632353,0.6922882040917585,0.67335117,<function relu at 0x147e4add0>,32,0.3,100,16,4,binary_crossentropy,0.001,<class 'tensorflow.python.keras.optimizer_v2.gradient_descent.SGD'>,funnel
+100,0.6951918814688611,0.44210026,0.6930786086165387,0.34025696,<function relu at 0x147e4add0>,16,0.2,100,64,5,binary_crossentropy,0.001,<class 'tensorflow.python.keras.optimizer_v2.gradient_descent.SGD'>,funnel
+100,0.6945537268669025,0.7707536,0.6923744735510453,0.96197665,<function relu at 0x147e4add0>,16,0.3,100,32,3,binary_crossentropy,0.001,<class 'tensorflow.python.keras.optimizer_v2.gradient_descent.SGD'>,funnel
